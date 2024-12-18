@@ -14,3 +14,5 @@ Add in a .env file with the matching api key name and it should be plug-and-play
 - Installation/setup: 45 mins
 - Development 150 mins
 - BugFixes: 60 mins
+## Notes
+The gemini project uses waits (time.sleep(60)) to enforce the token limit for student use cases, you can remove these for paid versions as seen with the gpt model use case.
