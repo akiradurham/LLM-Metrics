@@ -1,5 +1,5 @@
 # Comparing LLM Metrics
-This project has two version of the same file, one for google's gemini api and one with openai's gpt api. These two projects reflect the same principles, simply calling the different backends with respect to the two aforementioned models. They use a streamlit dashboard in order to easily view metrics and involve a semantic similarity score as well as ROUGE score, complete with RMSE and total error % calculations.
+This project has two version of the same file, one for google's gemini api and one with openai's gpt api. These two projects reflect the same principles, simply calling the different backends with respect to the two aforementioned models. The projects use a streamlit dashboard in order to easily view metrics and involve a semantic similarity score as well as ROUGE score, complete with RMSE and total error % calculations.
 ## Setup Instructions
 Add in a .env file with the matching api key name and it should be plug-and-play! (Also make sure to have all dependencies)
 ## Flow
