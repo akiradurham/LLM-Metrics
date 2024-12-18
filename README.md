@@ -10,7 +10,7 @@ Add in a .env file with the matching api key name and it should be plug-and-play
 - Calculate RMSE and other indicators of success
 - Print or store for later use in streamlit
 ## Timeline
-Reading documentation: 30 mins
-Installation/setup: 45 mins
-Development 150 mins
-BugFixes: 60 mins
+- Reading documentation: 30 mins
+- Installation/setup: 45 mins
+- Development 150 mins
+- BugFixes: 60 mins
