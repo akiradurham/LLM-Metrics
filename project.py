@@ -196,9 +196,9 @@ print()
 st.title('Model Evaluation Dashboard')
 
 st.header("Models")
-st.write("Model 1 : gpt-4o-mini")
-st.write("Model 2 : gpt-4o-mini-2024-07-18")
-st.write("Embeddings Model : text-embedding-3-small")
+st.write("Model 1 : gemini-1.5-flash")
+st.write("Model 2 : gemini-1.5-flash-8b")
+st.write("Embeddings Model : models/text-embedding-004")
 
 st.header("Semantic Similarity Score")
 st.write(f"Model 1 Similarity Score RMSE: {mod1_rmse}")
